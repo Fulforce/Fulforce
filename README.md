@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fulforce . I am a Lead Cloud Engineer @ Ofsted. 
 - 👀 I’m especially interested in Microsoft Azure and Terraform from an Engineering and Architecture aspect. I have been working with Windows Server, Exchange, SharePoint and Microsoft 365 for many years. 
-- 🌱 I’m currently learning to improve my knowledge with Terraform and Azure-CAF-LandingZones.
+- 🌱 I’m currently learning to improve my knowledge on Azure, Microsoft Cloud Adoption Framework and Terraform CAF LandingZones.
 - 💞️ I’m looking to collaborate on Microsoft Azure projects.
 - 📫 How to reach me https://www.linkedin.com/in/joefulford
 
