@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe and I am a Cloud Solution Architect @ Microsoft. 
-- 👀 I’m especially interested in Microsoft Azure from an Engineering and Architectural aspect. I have been working with the entire Microsoft Stack ranging from Windows Server, Exchange, SharePoint, Power Platform and Microsoft 365 for over 9 years. 
+- 👀 I’m especially interested in Microsoft Azure from an Engineering and Architectural aspect. I have been working with the entire Microsoft Stack ranging from Windows Server, Exchange, SharePoint, Power Platform and Microsoft 365 for over 10 years. 
 - 🌱 I’m currently learning more about Azure, Microsoft Cloud Adoption Framework for Azure Landing Zones and IaC. 
 - 💞️ I’m looking to collaborate on Microsoft Azure projects.
 - 📫 How to reach me https://www.linkedin.com/in/joefulford
