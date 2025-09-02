@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning more about Azure, Microsoft Cloud Adoption Framework for Azure Landing Zones and IaC. 
 - 💞️ I’m looking to collaborate on Microsoft Azure projects.
 - 📫 How to reach me https://www.linkedin.com/in/joefulford
-- 📖 Check out my blog! https://fulforce.co.uk
 
 <!---
 Fulforce/Fulforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
