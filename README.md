@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on Microsoft Azure projects.
 - 📫 How to reach me https://www.linkedin.com/in/joefulford
 
-## Check out my GitHub contribution profile stats project. It's just a fun vibecoded using the spec-driven deployment method. 
-### ![Github Profile Stats RPG - Middle Earth Journey](https://github.com/Fulforce/profilestats-rpg)
+## Check out my GitHub RPG journey profile stats project. 
+It's just a fun spec-driven agentic coding project I've been playing with. Github activity contributes your XP which determines your journey progress from The Shire to Mount Doom. Inspired by the Fantasy Hike app
+### [Github Profile Stats RPG - Middle Earth Journey](https://github.com/Fulforce/profilestats-rpg)
 ![GitHub RPG Journey](https://raw.githubusercontent.com/fulforce/profilestats-rpg/test/profile-run/output/journey.svg)
 
 <!---
