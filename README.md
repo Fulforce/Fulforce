@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Microsoft Azure projects.
 - 📫 How to reach me https://www.linkedin.com/in/joefulford
 
-![GitHub RPG Journey](https://raw.githubusercontent.com/fulforce/profilestats-rpg/test/my-profile-run/output/journey.svg)
+![GitHub RPG Journey](https://raw.githubusercontent.com/fulforce/profilestats-rpg/test/profile-run/output/journey.svg)
 
 <!---
 Fulforce/Fulforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
