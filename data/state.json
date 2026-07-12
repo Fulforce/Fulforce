@@ -17,20 +17,20 @@
     "progress": {
       "journeyId": "road-to-mordor-2026",
       "status": "ACTIVE",
-      "xp": 4080,
+      "xp": 4365,
       "targetXP": 50000,
-      "progressPercent": 8.2,
+      "progressPercent": 8.7,
       "currentLocationId": "bree",
       "nextLocationId": "weathertop",
-      "characterX": 173.7,
-      "segmentProgressPercent": 63.2,
+      "characterX": 183.4,
+      "segmentProgressPercent": 74.6,
       "startedAt": "2026-01-01"
     },
     "activity": {
       "counts": {
-        "commits": 66,
-        "prsOpened": 19,
-        "prsMerged": 18,
+        "commits": 73,
+        "prsOpened": 20,
+        "prsMerged": 20,
         "issuesOpened": 10,
         "issuesClosed": 10,
         "reviewsSubmitted": 0,
@@ -43,7 +43,7 @@
         "from": "2026-01-01",
         "to": "2026-07-12"
       },
-      "collectedAt": "2026-07-12T19:21:01.683Z",
+      "collectedAt": "2026-07-12T19:38:35.130Z",
       "source": "github-public-api",
       "complete": false,
       "warnings": [
@@ -59,21 +59,21 @@
       "sources": [
         {
           "metric": "commits",
-          "count": 66,
+          "count": 73,
           "unitXP": 2,
-          "earnedXP": 132
+          "earnedXP": 146
         },
         {
           "metric": "prsOpened",
-          "count": 19,
+          "count": 20,
           "unitXP": 20,
-          "earnedXP": 380
+          "earnedXP": 400
         },
         {
           "metric": "prsMerged",
-          "count": 18,
+          "count": 20,
           "unitXP": 40,
-          "earnedXP": 720
+          "earnedXP": 800
         },
         {
           "metric": "issuesOpened",
@@ -112,10 +112,10 @@
           "earnedXP": 0
         }
       ],
-      "rawXP": 1632,
+      "rawXP": 1746,
       "multiplier": 2.5,
-      "calculatedXP": 4080,
-      "awardedXP": 4080
+      "calculatedXP": 4365,
+      "awardedXP": 4365
     },
     "titleId": "wanderer",
     "titleName": "Wanderer",
@@ -226,6 +226,6 @@
       }
     ],
     "themeName": "Middle-earth",
-    "lastUpdated": "2026-07-12T19:21:01.683Z"
+    "lastUpdated": "2026-07-12T19:38:35.130Z"
   }
 }
