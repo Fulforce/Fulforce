@@ -2,9 +2,8 @@ name: Update Profile RPG
 
 on:
   workflow_dispatch:
-  # Enable only after a successful manual run.
-  # schedule:
-  #   - cron: "17 5 * * *"
+  schedule:
+    - cron: "00 6 * * *"
 
 permissions:
   contents: write
