@@ -1,4 +1,4 @@
-![Profile stats RPG](https://raw.githubusercontent.com/Fulforce/Fulforce/ed503d19ac3b22712069ffbb8fa8402f7510f023/output/journey.svg)
+![Profile stats RPG](https://raw.githubusercontent.com/Fulforce/Fulforce/main/output/journey.svg)
 
 - 👋 Hi, I’m Joe and I am a Senior Platform Engineer @ LSEG. I'm an ex Microsoft CSA too. 
 - 👀 I’m interested in Microsoft Azure from an Engineering and Architectural aspect. I have been working with the entire Microsoft Stack ranging from Windows Server, Exchange, SharePoint, Power Platform and Microsoft 365 for over 12 years. 
