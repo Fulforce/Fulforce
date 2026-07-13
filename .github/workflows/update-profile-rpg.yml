@@ -3,7 +3,7 @@ name: Update Profile RPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 6 * * *"
+    - cron: "37 6 * * *"
 
 permissions:
   contents: write
