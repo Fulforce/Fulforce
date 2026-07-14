@@ -17,18 +17,18 @@
     "progress": {
       "journeyId": "road-to-mordor-2026",
       "status": "ACTIVE",
-      "xp": 4380,
+      "xp": 4385,
       "targetXP": 50000,
       "progressPercent": 8.8,
       "currentLocationId": "bree",
       "nextLocationId": "weathertop",
-      "characterX": 183.9,
-      "segmentProgressPercent": 75.2,
+      "characterX": 184.1,
+      "segmentProgressPercent": 75.4,
       "startedAt": "2026-01-01"
     },
     "activity": {
       "counts": {
-        "commits": 76,
+        "commits": 77,
         "prsOpened": 20,
         "prsMerged": 20,
         "issuesOpened": 10,
@@ -43,7 +43,7 @@
         "from": "2026-01-01",
         "to": "2026-07-14"
       },
-      "collectedAt": "2026-07-14T08:41:38.931Z",
+      "collectedAt": "2026-07-14T18:47:44.287Z",
       "source": "github-public-api",
       "complete": false,
       "warnings": [
@@ -59,9 +59,9 @@
       "sources": [
         {
           "metric": "commits",
-          "count": 76,
+          "count": 77,
           "unitXP": 2,
-          "earnedXP": 152
+          "earnedXP": 154
         },
         {
           "metric": "prsOpened",
@@ -112,10 +112,10 @@
           "earnedXP": 0
         }
       ],
-      "rawXP": 1752,
+      "rawXP": 1754,
       "multiplier": 2.5,
-      "calculatedXP": 4380,
-      "awardedXP": 4380
+      "calculatedXP": 4385,
+      "awardedXP": 4385
     },
     "titleId": "wanderer",
     "titleName": "Wanderer",
@@ -226,6 +226,6 @@
       }
     ],
     "themeName": "Middle-earth",
-    "lastUpdated": "2026-07-14T08:41:38.931Z"
+    "lastUpdated": "2026-07-14T18:47:44.287Z"
   }
 }
