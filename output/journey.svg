@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="psrpg-title psrpg-desc">
 <title id="psrpg-title">Middle-earth Journey for Fulforce</title>
-<desc id="psrpg-desc">Middle-earth journey for Fulforce. Currently at Bree; next destination Weathertop. 4,385 of 50,000 XP, 8.8 percent complete. Journey started 2026-01-01; last successful update 2026-07-18. 3 achievements unlocked. Activity data is incomplete. GitHub does not expose complete public release-author totals for a user.</desc>
+<desc id="psrpg-desc">Middle-earth journey for Fulforce. Currently at Bree; next destination Weathertop. 4,385 of 50,000 XP, 8.8 percent complete. Journey started 2026-01-01; last successful update 2026-07-19. 3 achievements unlocked. Activity data is incomplete. GitHub does not expose complete public release-author totals for a user.</desc>
 <rect width="1200" height="420" rx="16" fill="#F7F0D8"/>
 <rect x="1" y="1" width="1198" height="418" rx="15" fill="none" stroke="#6B5B45" stroke-opacity="0.35"/>
 <g font-family="DejaVu Sans, sans-serif">
@@ -9,7 +9,7 @@
 <text x="40" y="94" fill="#6B5B45" font-size="15">Wanderer</text>
 <text x="1160" y="38" text-anchor="end" fill="#2F6F4E" font-size="13" font-weight="700">Journey active</text>
 <text x="1160" y="65" text-anchor="end" fill="#6B5B45" font-size="12">Started 2026-01-01</text>
-<text x="1160" y="85" text-anchor="end" fill="#6B5B45" font-size="12">Updated 2026-07-18</text>
+<text x="1160" y="85" text-anchor="end" fill="#6B5B45" font-size="12">Updated 2026-07-19</text>
 <g transform="translate(40 112)">
 <rect x="0" y="0" width="330" height="106" rx="9" fill="#242018" opacity="0.055" stroke="#6B5B45" stroke-width="1" stroke-opacity="0.3"/>
 <text x="18" y="25" fill="#6B5B45" font-size="12" font-weight="700">TOP XP SOURCES</text>
