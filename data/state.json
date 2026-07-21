@@ -17,20 +17,20 @@
     "progress": {
       "journeyId": "road-to-mordor-2026",
       "status": "ACTIVE",
-      "xp": 4385,
+      "xp": 4565,
       "targetXP": 50000,
-      "progressPercent": 8.8,
+      "progressPercent": 9.1,
       "currentLocationId": "bree",
       "nextLocationId": "weathertop",
-      "characterX": 184.1,
-      "segmentProgressPercent": 75.4,
+      "characterX": 190.2,
+      "segmentProgressPercent": 82.6,
       "startedAt": "2026-01-01"
     },
     "activity": {
       "counts": {
-        "commits": 77,
-        "prsOpened": 20,
-        "prsMerged": 20,
+        "commits": 83,
+        "prsOpened": 21,
+        "prsMerged": 21,
         "issuesOpened": 10,
         "issuesClosed": 10,
         "reviewsSubmitted": 0,
@@ -41,9 +41,9 @@
       "githubUser": "Fulforce",
       "window": {
         "from": "2026-01-01",
-        "to": "2026-07-20"
+        "to": "2026-07-21"
       },
-      "collectedAt": "2026-07-20T19:17:00.803Z",
+      "collectedAt": "2026-07-21T18:55:16.548Z",
       "source": "github-public-api",
       "complete": false,
       "warnings": [
@@ -59,21 +59,21 @@
       "sources": [
         {
           "metric": "commits",
-          "count": 77,
+          "count": 83,
           "unitXP": 2,
-          "earnedXP": 154
+          "earnedXP": 166
         },
         {
           "metric": "prsOpened",
-          "count": 20,
+          "count": 21,
           "unitXP": 20,
-          "earnedXP": 400
+          "earnedXP": 420
         },
         {
           "metric": "prsMerged",
-          "count": 20,
+          "count": 21,
           "unitXP": 40,
-          "earnedXP": 800
+          "earnedXP": 840
         },
         {
           "metric": "issuesOpened",
@@ -112,10 +112,10 @@
           "earnedXP": 0
         }
       ],
-      "rawXP": 1754,
+      "rawXP": 1826,
       "multiplier": 2.5,
-      "calculatedXP": 4385,
-      "awardedXP": 4385
+      "calculatedXP": 4565,
+      "awardedXP": 4565
     },
     "titleId": "wanderer",
     "titleName": "Wanderer",
@@ -226,6 +226,6 @@
       }
     ],
     "themeName": "Middle-earth",
-    "lastUpdated": "2026-07-20T19:17:00.803Z"
+    "lastUpdated": "2026-07-21T18:55:16.548Z"
   }
 }
