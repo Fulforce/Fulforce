@@ -150,6 +150,21 @@
         "first-pr-merged"
       ],
       "activityComplete": false
+    },
+    {
+      "journeyId": "road-to-mordor-2026",
+      "date": "2026-07-23",
+      "awardedXP": 4565,
+      "calculatedXP": 4565,
+      "progressPercent": 9.1,
+      "locationId": "bree",
+      "titleId": "wanderer",
+      "achievementIds": [
+        "left-shire",
+        "xp-1000",
+        "first-pr-merged"
+      ],
+      "activityComplete": false
     }
   ]
 }
