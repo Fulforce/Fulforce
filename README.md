@@ -7,7 +7,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/joefulford
 
 ## Check out my GitHub RPG journey profile stats project. 
-It's a fun spec-driven agentic coding project I've been playing with. Github activity contributes your XP which determines your journey progress from The Shire to Mount Doom. Inspired by the Fantasy Hike app.
+It's a spec-driven agentic coding project I've been playing with. Github activity contributes to your total XP. Your XP count  determines your journey progress from The Shire to Mount Doom. Inspired by the Fantasy Hike app. Flexible XP, Journey and Theme engine to allow for community driven themes.
 ### [Github Profile Stats RPG - Middle Earth Journey](https://github.com/Fulforce/profilestats-rpg)
 ![GitHub RPG Journey](https://raw.githubusercontent.com/Fulforce/profilestats-rpg/refs/heads/main/profilestats-rpg-social-image.png)
 
