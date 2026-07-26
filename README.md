@@ -11,7 +11,8 @@ It's a spec-driven agentic coding project I've been playing with. Github activit
 ### [Github Profile Stats RPG - Middle Earth Journey](https://github.com/Fulforce/profilestats-rpg)
 ![GitHub RPG Journey](https://raw.githubusercontent.com/Fulforce/profilestats-rpg/refs/heads/main/profilestats-rpg-social-image.png)
 
-
+### Other projects
+1. [Running pace calculator, ad-free, dynamic and quick. Designed for ease of use whilst on the run](https://github.com/Fulforce/run-pace-calc)
 <!---
 Fulforce/Fulforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
