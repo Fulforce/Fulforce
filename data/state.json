@@ -17,23 +17,23 @@
     "progress": {
       "journeyId": "road-to-mordor-2026",
       "status": "ACTIVE",
-      "xp": 4907,
+      "xp": 5105,
       "targetXP": 50000,
-      "progressPercent": 9.8,
-      "currentLocationId": "bree",
-      "nextLocationId": "weathertop",
-      "characterX": 201.9,
-      "segmentProgressPercent": 96.3,
+      "progressPercent": 10.2,
+      "currentLocationId": "weathertop",
+      "nextLocationId": "rivendell",
+      "characterX": 207.9,
+      "segmentProgressPercent": 3,
       "startedAt": "2026-01-01"
     },
     "activity": {
       "counts": {
-        "commits": 84,
-        "prsOpened": 23,
-        "prsMerged": 23,
+        "commits": 86,
+        "prsOpened": 24,
+        "prsMerged": 24,
         "issuesOpened": 10,
         "issuesClosed": 10,
-        "reviewsSubmitted": 1,
+        "reviewsSubmitted": 2,
         "repositoriesCreated": 2,
         "releasesPublished": 0,
         "streaks": 0
@@ -41,9 +41,9 @@
       "githubUser": "Fulforce",
       "window": {
         "from": "2026-01-01",
-        "to": "2026-07-25"
+        "to": "2026-07-26"
       },
-      "collectedAt": "2026-07-25T18:39:55.160Z",
+      "collectedAt": "2026-07-26T18:43:24.501Z",
       "source": "github-public-api",
       "complete": false,
       "warnings": [
@@ -59,21 +59,21 @@
       "sources": [
         {
           "metric": "commits",
-          "count": 84,
+          "count": 86,
           "unitXP": 2,
-          "earnedXP": 168
+          "earnedXP": 172
         },
         {
           "metric": "prsOpened",
-          "count": 23,
+          "count": 24,
           "unitXP": 20,
-          "earnedXP": 460
+          "earnedXP": 480
         },
         {
           "metric": "prsMerged",
-          "count": 23,
+          "count": 24,
           "unitXP": 40,
-          "earnedXP": 920
+          "earnedXP": 960
         },
         {
           "metric": "issuesOpened",
@@ -89,9 +89,9 @@
         },
         {
           "metric": "reviewsSubmitted",
-          "count": 1,
+          "count": 2,
           "unitXP": 15,
-          "earnedXP": 15
+          "earnedXP": 30
         },
         {
           "metric": "repositoriesCreated",
@@ -112,13 +112,13 @@
           "earnedXP": 0
         }
       ],
-      "rawXP": 1963,
+      "rawXP": 2042,
       "multiplier": 2.5,
-      "calculatedXP": 4907,
-      "awardedXP": 4907
+      "calculatedXP": 5105,
+      "awardedXP": 5105
     },
-    "titleId": "wanderer",
-    "titleName": "Wanderer",
+    "titleId": "ranger",
+    "titleName": "Ranger",
     "achievements": [
       {
         "achievementId": "left-shire",
@@ -226,6 +226,6 @@
       }
     ],
     "themeName": "Middle-earth",
-    "lastUpdated": "2026-07-25T18:39:55.160Z"
+    "lastUpdated": "2026-07-26T18:43:24.501Z"
   }
 }

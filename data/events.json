@@ -56,6 +56,20 @@
       "occurredAt": "2026-07-12T19:21:01.683Z",
       "type": "ACHIEVEMENT_UNLOCKED",
       "value": "xp-1000"
+    },
+    {
+      "id": "road-to-mordor-2026:LOCATION_UNLOCKED:weathertop",
+      "journeyId": "road-to-mordor-2026",
+      "occurredAt": "2026-07-26T18:43:24.501Z",
+      "type": "LOCATION_UNLOCKED",
+      "value": "weathertop"
+    },
+    {
+      "id": "road-to-mordor-2026:TITLE_UNLOCKED:ranger",
+      "journeyId": "road-to-mordor-2026",
+      "occurredAt": "2026-07-26T18:43:24.501Z",
+      "type": "TITLE_UNLOCKED",
+      "value": "ranger"
     }
   ]
 }
