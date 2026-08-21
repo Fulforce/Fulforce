@@ -41,9 +41,9 @@
       "githubUser": "Fulforce",
       "window": {
         "from": "2026-01-01",
-        "to": "2026-08-20"
+        "to": "2026-08-21"
       },
-      "collectedAt": "2026-08-20T18:02:24.088Z",
+      "collectedAt": "2026-08-21T18:02:39.121Z",
       "source": "github-public-api",
       "complete": false,
       "warnings": [
@@ -226,6 +226,6 @@
       }
     ],
     "themeName": "Middle-earth",
-    "lastUpdated": "2026-08-20T18:02:24.088Z"
+    "lastUpdated": "2026-08-21T18:02:39.121Z"
   }
 }
