@@ -735,6 +735,21 @@
         "first-pr-merged"
       ],
       "activityComplete": false
+    },
+    {
+      "journeyId": "road-to-mordor-2026",
+      "date": "2026-09-03",
+      "awardedXP": 5105,
+      "calculatedXP": 5105,
+      "progressPercent": 10.2,
+      "locationId": "weathertop",
+      "titleId": "ranger",
+      "achievementIds": [
+        "left-shire",
+        "xp-1000",
+        "first-pr-merged"
+      ],
+      "activityComplete": false
     }
   ]
 }
